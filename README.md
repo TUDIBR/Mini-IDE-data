@@ -18,8 +18,7 @@ Uma IDE **leve**, focada em **Python**, com as principais funcionalidades que vo
 
 ## 📸 Interface
 
-*(Print em breve)*  
-Se quiser, manda uma imagem e a gente atualiza isso depois.
+![Interface](assets/mini-ide-interface.png)
 
 ---
 
