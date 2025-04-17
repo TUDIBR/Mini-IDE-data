@@ -33,9 +33,7 @@ Uma IDE **leve**, focada em **Python**, com as principais funcionalidades que vo
 ## 🔑 Ativação por Key
 
 Ao abrir a Mini IDE, será pedida uma **chave de acesso**.  
-Atualmente não há distribuição pública das keys, mas futuramente será postado um vídeo no canal **TUDIBR** do YouTube com uma key gratuita pra testes.
-
-No futuro, o projeto pode se tornar **pago**, então aproveita enquanto é de graça 👀
+Procure pela key aqui: https://www.youtube.com/watch?v=aFID4UD7jLE
 
 ---
 
