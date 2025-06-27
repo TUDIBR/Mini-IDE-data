@@ -1,1 +1,1 @@
-1.0.1;https://github.com/TUDIBR/Mini-IDE-data/releases/tag/v1.0.0https://github.com/TUDIBR/Mini-IDE-data/releases/tag/v1.0.0
+1.0.1;https://github.com/TUDIBR/Mini-IDE-data/releases/tag/v1.0.0/
